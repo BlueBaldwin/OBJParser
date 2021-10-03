@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Dev\CT5000\OBJParser\obj_loader\source\main.cpp(89,14): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Dev\CT5000\OBJParser\obj_loader\source\main.cpp(274,57): warning C4091: 'typedef ': ignored on left of 'processFaceData::objectFaceTriplet' when no variable is declared
+C:\Dev\CT5000\OBJParser\obj_loader\source\main.cpp(274,76): warning C4091: '': ignored on left of 'processFaceData::objectFaceTriplet' when no variable is declared
+  obj_loader.vcxproj -> C:\Dev\CT5000\OBJParser\build\Debug\obj_loader.exe
